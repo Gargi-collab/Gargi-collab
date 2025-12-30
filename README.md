@@ -1,25 +1,14 @@
-## Hey there 👋
+Hey there 👋
 
-M.S. Computer Software Engineering student with experience in software development
-and applied AI. I build full-stack applications and ML-backed systems using
-Python, React, Node.js, SQL, and modern development workflows.
+I’m Gargi, an M.S. Computer Software Engineering student based in the United States.
 
-### What I work on
-- Full-stack web applications (React, Node.js, PostgreSQL)
-- Backend APIs and system design
-- Applied AI/ML projects (NLP, Transformers, PyTorch)
-- Clean GitHub workflows with branches, PRs, and CI
+I build software systems and full-stack applications, and I enjoy adding AI where
+it actually makes sense. If an idea sticks in my head, I usually end up building
+it and shipping it.
 
-### Tech Stack
-- Languages: Python, JavaScript, Java, C++
-- Frontend: React, HTML, CSS, Bootstrap
-- Backend: Node.js, Express
-- Databases: PostgreSQL, MongoDB
-- ML: PyTorch, NLP, Transformers
-- Tools: Git, GitHub, Jenkins, Linux
+Most of my work lives around Python, React, Node.js, SQL, and applied AI projects
+(NLP, Transformers, PyTorch). I care about clean design, solid backend logic, and
+projects that feel complete, not half-done demos.
 
-### Currently
-- Actively building and refining projects
-- Practicing DSA and problem-solving
-- Seeking software engineering / AI engineering internships
-
+When I’m not coding, I’m into escape games, Studio Ghibli films, Pilates, and
+working to lofi beats.
